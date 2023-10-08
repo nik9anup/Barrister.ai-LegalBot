@@ -1,6 +1,7 @@
 # Barrister.ai - A legal advisor bot
 
-Barrister.ai is a legal advisor bot created using OpenAI's LLM and Langchain to answer legal queries on criminal and civil law pertinent to the Indian Jurisdiction.
+Barrister.ai is a legal advisor bot created using OpenAI's LLM and Langchain to answer legal queries on criminal and civil law pertinent to the Indian Jurisdiction. 
+
 The app uses ChromaDB as the Vectorstore database and gradio to create a modern front-end which is deployed both as a public and a local link.
 Additonal libraries: nltk, unstructured, pypdf (for PDF files support)
 Reference: langChain documentation.
